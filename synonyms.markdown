@@ -8,3 +8,10 @@
  * Relational SEM, by analogy to the way in which a relational database links values in different tables. 
 5. [Item Response Theory](https://en.wikipedia.org/wiki/Item_response_theory)
  * Item factor analysis (IFA)
+## Ordinal Data terms
+1. Cumulative link (mixed) models
+ * Synonyms
+ * ordered regression models
+ * proportional odds models
+ * proportional hazards models (for grouped survival times)
+ * ordered logit/probit/... models
