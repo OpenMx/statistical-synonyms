@@ -14,7 +14,7 @@
 ## Ordinal Data terms
 
 1. Cumulative link (mixed) models
- * Regression models with ordinal data. Implemented in `R` in package `[ordinal](https://cran.rstudio.com/web/packages/ordinal/)`
+ * Regression models with ordinal data. Implemented in `R` in package [ordinal](https://cran.rstudio.com/web/packages/ordinal/)
  * Synonyms:
   * Ordered regression models
   * Proportional odds models
