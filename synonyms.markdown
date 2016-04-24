@@ -2,6 +2,7 @@
 
 1. Classical [Structural Equation Model](https://en.wikipedia.org/wiki/Structural_equation_modeling)
  * A model in which (to use RAM notation), entries in `A` and `S` are numeric.
+ * synonym: General structural equation models: Models with both observed and unobserved variables. (term used in sem package)
 2.  Extended SEM
  *  Model in which the [RAM](http://onlinelibrary.wiley.com/doi/10.1111/j.2044-8317.1984.tb00802.x/abstract)-equivalent of `A` and `S` matrix entries may be arbitrary algebras.  These algebras may be a function of definition variables (see below).
 3. [Definition variable](http://davidakenny.net/cm/basics.htm)
